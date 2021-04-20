@@ -2,7 +2,8 @@
 Sudoku Image Solver Using OpenCV, Deep Learning.
 
 ## Demo
-Some Tested Images 
+Some Tested Images
+
 ![demo1](https://user-images.githubusercontent.com/70458571/115389489-c5f51000-a1fa-11eb-9554-39632693aa0a.png)
 --
 ![demo2](https://user-images.githubusercontent.com/70458571/115389600-e7ee9280-a1fa-11eb-9bde-1ce87c1b1c12.png)
